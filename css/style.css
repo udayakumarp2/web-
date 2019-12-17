@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background: yellow;
+}
+#facebook {
+  width: 300px;
+}
+#twitter {
+  width: 300px;
+}
+
+#whatsapp {
+  width: 300px;
+}
+#socialMedia {
+  width: 300px;
+}
+#network {
+  width: 300px;
+}
+
+h1 {
+  font: 30px sans-serif;
+  font-weight: bold;
+}
+
+p {
+  text-align: left;
+  font: 80% sans-serif;
+}
+
+.redColor{
+  background-color:red;
+}
+
+.greenColor{
+  background-color:green;
+}
